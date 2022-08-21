@@ -716,6 +716,7 @@ section {
 }
 
 .main-btn {
+    background-color: transparent;
     border-radius: 30px;
     color: inherit;
     font-weight: 600;
